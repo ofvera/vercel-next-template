@@ -28,4 +28,4 @@ vercel
 
 ## Learn More
 
-To learn more about Next.js, check out the [Next.js documentation](https://nextjs.org/docs)
+To learn more about Next.js, check out the [Next.js documentation](https://nextjs.org/docs).
